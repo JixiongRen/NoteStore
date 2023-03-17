@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a651d76fd8b3d446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三下专业课/02 电气专业实习_b/电气专业实习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c60a89b844d9014d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三下专业课/04 工厂供电A_b/工厂供电.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7123549d766d5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三下专业课/05 管理学基础_b/管理学基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,14 +209,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e863e895917f10a5",
+  "active": "07518f67d459988b",
   "lastOpenFiles": [
-    "00 Inbox/嵌入式实验汇总.md",
+    "大三下专业课/07 电力综合设计与实践_b/电力综合设计与实践.md",
+    "大三下笔记.zip",
+    "大三下专业课/05 管理学基础_b/管理学基础.md",
+    "大三下专业课/04 工厂供电A_b/工厂供电.md",
+    "大三下专业课/02 电气专业实习_b/电气专业实习.md",
     "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
+    "00 Inbox/嵌入式实验汇总.md",
     "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记目录.md",
     "大三下专业课/08 缓考-嵌入式/2  ARM 技术概述和 S3C2410 简介.md",
     "大三下专业课/08 缓考-嵌入式/1  嵌入式系统基础知识.md",
-    "00 Inbox/3 转速闭环控制的直流调速系统.md",
+    "大三下专业课/06 运动控制系统_b/3 转速闭环控制的直流调速系统.md",
     "大三下专业课/08 缓考-嵌入式/9 DMA 和中断技术.md",
     "大三下专业课/08 缓考-嵌入式/8 AD 转换.md",
     "大三下专业课/08 缓考-嵌入式/7  串行通信接口.md",
@@ -210,13 +248,8 @@
     "大三下专业课/03 高电压技术_b/1 气体放电的物理过程.md",
     "大三下专业课/03 高电压技术_b/alpha过程.canvas",
     "00 Inbox/TensorFlow数据类型.md",
-    "00 Inbox/TensorFlow数值类型.md",
-    "大三下专业课/02 电气专业实习_b/1 气体放电的物理过程.md",
-    "_debug_remotely_save/log_hist_exported_on_1678101090450.md",
     "_debug_remotely_save",
     "大三下专业课/01     电气控制技术_b/电气控制技术课件合集.pdf",
-    "大三下专业课/01     电气控制技术_b/1 常用低压电器.md",
-    "PyTorchDocs/SecondSection/Autograd.md",
     "PyTorchDocs/ThirdSection/image",
     "PyTorchDocs/ThirdSection",
     "PyTorchDocs/SixthSection/notation",
@@ -224,7 +257,6 @@
     "PyTorchDocs/SeventhSection/notation",
     "PyTorchDocs/SeventhSection",
     "PyTorchDocs/SecondSection/LICENSE",
-    "PyTorchDocs/SecondSection",
     "大三下专业课/03 高电压技术_b/气体中带电粒子产生消失的方式.canvas",
     "大三下专业课/03 高电压技术_b/gamma过程.canvas"
   ]
