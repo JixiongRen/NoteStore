@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://mubu.com/app/edit/home/2k9btThCfCw~0",
+      "displayName": "Mubu",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c0a5ae0fa218690d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eabaa673c887f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e863e895917f10a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4922afdb5225da1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2c2f7b825b7d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c6e2bbcb5f59271",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e32e28e34fc0ccb0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "07518f67d459988b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.50152587890625
+  },
+  "right": {
+    "id": "7983ffb87d9c0795",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccef02c9336d2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de142b8199deb9be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8156d4a4c5e51336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5eaaae1ac08c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb5996336b1a08c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md"
+              }
+            }
+          },
+          {
+            "id": "3992ad4c5d3dc47d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3969e5d32a6eb788",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "e863e895917f10a5",
+  "lastOpenFiles": [
+    "00 Inbox/嵌入式实验汇总.md",
+    "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记汇总.md",
+    "大三下专业课/08 缓考-嵌入式/嵌入式复习笔记目录.md",
+    "大三下专业课/08 缓考-嵌入式/2  ARM 技术概述和 S3C2410 简介.md",
+    "大三下专业课/08 缓考-嵌入式/1  嵌入式系统基础知识.md",
+    "00 Inbox/3 转速闭环控制的直流调速系统.md",
+    "大三下专业课/08 缓考-嵌入式/9 DMA 和中断技术.md",
+    "大三下专业课/08 缓考-嵌入式/8 AD 转换.md",
+    "大三下专业课/08 缓考-嵌入式/7  串行通信接口.md",
+    "大三下专业课/08 缓考-嵌入式/6  S3C2410 的定时器.md",
+    "大三下专业课/08 缓考-嵌入式/5  S3C2410 的 GPIO 编程.md",
+    "大三下专业课/08 缓考-嵌入式/4  S3C2410 的存储器.md",
+    "大三下专业课/06 运动控制系统_b/Untitled Diagram 4.svg",
+    "大三下专业课/06 运动控制系统_b/0 电机学复习.md",
+    "大三下专业课/06 运动控制系统_b/2 运控-转速开环控制的直流调速系统.md",
+    "大三下专业课/06 运动控制系统_b/运动控制系统及其组成.svg",
+    "大三下专业课/06 运动控制系统_b/Untitled Diagram.svg",
+    "12 Obsidian操作指南/MarkDown学习笔记.md",
+    "12 Obsidian操作指南/学习Obsidian基本操作.md",
+    "00 attachment/Pasted image 20230314170544.png",
+    "00 attachment/Pasted image 20230314165946.png",
+    "00 attachment/Pasted image 20230314111050.png",
+    "00 attachment/Pasted image 20230313200649.png",
+    "00 attachment/Pasted image 20230313200628.png",
+    "00 attachment/Pasted image 20230311154112.png",
+    "00 attachment/Pasted image 20230311151455.png",
+    "00 Inbox/3.2 训练数据处理.md",
+    "大三下专业课/06 运动控制系统_b/1 运动控制系统-绪论.md",
+    "大三下专业课/03 高电压技术_b/2 气体介质的电气强度.md",
+    "大三下专业课/03 高电压技术_b/1 气体放电的物理过程.md",
+    "大三下专业课/03 高电压技术_b/alpha过程.canvas",
+    "00 Inbox/TensorFlow数据类型.md",
+    "00 Inbox/TensorFlow数值类型.md",
+    "大三下专业课/02 电气专业实习_b/1 气体放电的物理过程.md",
+    "_debug_remotely_save/log_hist_exported_on_1678101090450.md",
+    "_debug_remotely_save",
+    "大三下专业课/01     电气控制技术_b/电气控制技术课件合集.pdf",
+    "大三下专业课/01     电气控制技术_b/1 常用低压电器.md",
+    "PyTorchDocs/SecondSection/Autograd.md",
+    "PyTorchDocs/ThirdSection/image",
+    "PyTorchDocs/ThirdSection",
+    "PyTorchDocs/SixthSection/notation",
+    "PyTorchDocs/SixthSection",
+    "PyTorchDocs/SeventhSection/notation",
+    "PyTorchDocs/SeventhSection",
+    "PyTorchDocs/SecondSection/LICENSE",
+    "PyTorchDocs/SecondSection",
+    "大三下专业课/03 高电压技术_b/气体中带电粒子产生消失的方式.canvas",
+    "大三下专业课/03 高电压技术_b/gamma过程.canvas"
+  ]
+}

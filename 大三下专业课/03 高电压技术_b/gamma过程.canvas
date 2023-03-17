@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1551001bed7a606f","x":-220,"y":-240,"width":317,"height":102,"type":"text","text":"阴极射出电子数为 $n_0$，到达阳极后电子数将增加为：\n$n=n_0\\mathrm{e}^{\\alpha d}$"},
+		{"type":"text","text":"途中产生新电子数为：\n$n=n_0(\\mathrm{e}^{\\alpha d}-1)$","id":"829c924e9dc81549","x":-220,"y":-80,"width":317,"height":102},
+		{"type":"text","text":"正离子到达阳极，从阴极电离出的电子数为：\n$\\Delta n=n_0 \\gamma (\\mathrm{e}^{\\alpha d}-1)$","id":"618016de47699f95","x":-220,"y":80,"width":317,"height":102}
+	],
+	"edges":[
+		{"id":"6cde194f91da5b21","fromNode":"1551001bed7a606f","fromSide":"bottom","toNode":"829c924e9dc81549","toSide":"top"},
+		{"id":"3cfbad93d2856781","fromNode":"829c924e9dc81549","fromSide":"bottom","toNode":"618016de47699f95","toSide":"top"}
+	]
+}

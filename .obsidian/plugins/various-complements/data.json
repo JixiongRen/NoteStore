@@ -1,0 +1,547 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "\\mathrm{GDP": {
+      "\\mathrm{GDP": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676733500266
+        }
+      }
+    },
+    "排放量。通过多元回归法处理数据，并将": {
+      "排放量。通过多元回归法处理数据，并将": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676807853203
+        }
+      }
+    },
+    "earth”模型中的": {
+      "earth”模型中的": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676900772535
+        }
+      }
+    },
+    "刀开关的铭牌": {
+      "刀开关的铭牌": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676981212202
+        }
+      }
+    },
+    "0，系统处于减速过渡过程。": {
+      "0，系统处于减速过渡过程。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676983421263
+        }
+      }
+    },
+    "，方向有可能发生变化": {
+      "，方向有可能发生变化": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676985916820
+        }
+      }
+    },
+    "电力拖动系统稳定运行的充分必要条件": {
+      "电力拖动系统稳定运行的充分必要条件": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676987591525
+        }
+      }
+    },
+    "控制磁链的重要性——为了充分利用电机铁芯，产生最大电磁转矩": {
+      "控制磁链的重要性——为了充分利用电机铁芯，产生最大电磁转矩": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676988400301
+        }
+      }
+    },
+    "P_M-p_s-p_m": {
+      "P_M-p_s-p_m": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677047168788
+        }
+      }
+    },
+    "→转子旋转": {
+      "→转子旋转": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677048652587
+        }
+      }
+    },
+    "（1）断开，达到过热保护目的。": {
+      "（1）断开，达到过热保护目的。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677069603469
+        }
+      }
+    },
+    "动作时间（全分断时间）：从网络出现短路的瞬间开始至触点分离后电弧熄灭，电路完全分断所需时间": {
+      "动作时间（全分断时间）：从网络出现短路的瞬间开始至触点分离后电弧熄灭，电路完全分断所需时间": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677071396694
+        }
+      }
+    },
+    "按结构分——直动式、滚动式、微动式、组合式": {
+      "按结构分——直动式、滚动式、微动式、组合式": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677197828689
+        }
+      }
+    },
+    "交流接触器基本参数": {
+      "交流接触器基本参数": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677200652494
+        }
+      }
+    },
+    "交流接触器启动电流大，费用低；直流接触器频率高，成本高。": {
+      "交流接触器启动电流大，费用低；直流接触器频率高，成本高。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677201491091
+        }
+      }
+    },
+    "电力电子技术的发展，使功率放大与变换装置的结构趋于简单、性能趋于完善": {
+      "电力电子技术的发展，使功率放大与变换装置的结构趋于简单、性能趋于完善": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677205840607
+        }
+      }
+    },
+    "调节电枢供电电压调速": {
+      "调节电枢供电电压调速": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677212401254
+        }
+      }
+    },
+    "改变电枢回路电阻调速": {
+      "改变电枢回路电阻调速": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677215172819
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677215246657
+        }
+      }
+    },
+    "\\downarrow": {
+      "\\downarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677215533226
+        }
+      }
+    },
+    "\\Rightarrow": {
+      "\\Rightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677909251294
+        }
+      }
+    },
+    "\\longrightarrow": {
+      "\\longrightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677469353585
+        }
+      }
+    },
+    "——主电路总电感": {
+      "——主电路总电感": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677467798037
+        }
+      }
+    },
+    "——交流电源一周内的整流电压脉波数": {
+      "——交流电源一周内的整流电压脉波数": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677468270636
+        }
+      }
+    },
+    "减小，提高外电压可以使碰撞电离的概率和强度增大": {
+      "减小，提高外电压可以使碰撞电离的概率和强度增大": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677494775463
+        }
+      }
+    },
+    "\\lambda_0": {
+      "\\lambda_0": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677497837497
+        }
+      }
+    },
+    "电流依靠外电离因素维持。取消外电离因素，电流消失；": {
+      "电流依靠外电离因素维持。取消外电离因素，电流消失；": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677501802201
+        }
+      }
+    },
+    "\\gamma": {
+      "\\gamma": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677506559669
+        }
+      }
+    },
+    "\\frac{BPd}{\\ln{\\frac{Apd": {
+      "\\frac{BPd}{\\ln{\\frac{Apd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677507707752
+        }
+      }
+    },
+    "减小，所以击穿电压升高；": {
+      "减小，所以击穿电压升高；": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677508295195
+        }
+      }
+    },
+    "平波电抗器大小的整定原则——电动机低速轻载时保证电流连续": {
+      "平波电抗器大小的整定原则——电动机低速轻载时保证电流连续": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677553173075
+        }
+      }
+    },
+    "K_sU_c": {
+      "K_sU_c": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677910690796
+        }
+      }
+    },
+    "变换器-电动机系统的优越性：": {
+      "变换器-电动机系统的优越性：": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677747055724
+        }
+      }
+    },
+    "方向不变；电动及仍处于正向电动状态": {
+      "方向不变；电动及仍处于正向电动状态": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677745196633
+        }
+      }
+    },
+    "\\frac{U_c}{U_{TM}}": {
+      "\\frac{U_c}{U_{TM}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677746292056
+        }
+      }
+    },
+    "sssssssssssssssssssssssss": {
+      "sssssssssssssssssssssssss": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677746968943
+        }
+      }
+    },
+    "Ssssssssssssssss": {
+      "Ssssssssssssssss": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1677747012602
+        }
+      }
+    },
+    "过程分析：": {
+      "过程分析：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677750498958
+        }
+      }
+    },
+    "PWM-电动机系统": {
+      "PWM-电动机系统": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677905055145
+        }
+      }
+    },
+    "不可逆电路的机械特性分析": {
+      "不可逆电路的机械特性分析": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677912232834
+        }
+      }
+    },
+    "图线类似，只是机械特性扩展到了四个象限。": {
+      "图线类似，只是机械特性扩展到了四个象限。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677913809197
+        }
+      }
+    },
+    "流注放电理论的特点：认为电子碰撞及空间光电离是维持自持放电的主要因素，并强调了空间电荷畸变电场的作用": {
+      "流注放电理论的特点：认为电子碰撞及空间光电离是维持自持放电的主要因素，并强调了空间电荷畸变电场的作用": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677915149205
+        }
+      }
+    },
+    "流注放电理论的特点": {
+      "流注放电理论的特点": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677915154984
+        }
+      }
+    },
+    "，其造成的影响为：": {
+      "，其造成的影响为：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677917283237
+        }
+      }
+    },
+    "流注形成后向阳极发展，直至贯通整个间隙，负流注形成。": {
+      "流注形成后向阳极发展，直至贯通整个间隙，负流注形成。": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677924946382
+        }
+      }
+    },
+    "很大时，放电具有通道形式；并且当某个流注发展更快时，将抑制其他流注的形成和发展，该效应随着流注的向前推进逐渐增强；": {
+      "很大时，放电具有通道形式；并且当某个流注发展更快时，将抑制其他流注的形成和发展，该效应随着流注的向前推进逐渐增强；": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677926020048
+        }
+      }
+    },
+    "很大时，放电时间特别短": {
+      "很大时，放电时间特别短": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677926317457
+        }
+      }
+    },
+    "流注理论中存在的问题：": {
+      "流注理论中存在的问题：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677926477313
+        }
+      }
+    },
+    "为延时时间。": {
+      "为延时时间。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678103831348
+        }
+      }
+    },
+    "n_{\\mathrm{min}}": {
+      "n_{\\mathrm{min}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678105719034
+        }
+      }
+    },
+    "作为纵坐标。": {
+      "作为纵坐标。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678260885821
+        }
+      }
+    },
+    "能起到保护作用。": {
+      "能起到保护作用。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678366506378
+        }
+      }
+    },
+    "与电机布置有关。": {
+      "与电机布置有关。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678415562335
+        }
+      }
+    },
+    "忽略控制电源和电位器的内阻": {
+      "忽略控制电源和电位器的内阻": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678515037109
+        }
+      }
+    },
+    "对给定作用唯命是从": {
+      "对给定作用唯命是从": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678521771119
+        }
+      }
+    },
+    "，但如果参考电压本身不稳定，那么将大大降低输出精度。": {
+      "，但如果参考电压本身不稳定，那么将大大降低输出精度。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678521810588
+        }
+      }
+    },
+    "f_{\\mathrm{Tclk}}": {
+      "f_{\\mathrm{Tclk}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678759416751
+        }
+      }
+    },
+    "rADCCON": {
+      "rADCCON": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678781766375
+        }
+      }
+    },
+    "TCNTBn": {
+      "TCNTBn": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678967588675
+        }
+      }
+    },
+    "TCMPBn（比较缓冲寄存器）相等时，TOUTn": {
+      "TCMPBn（比较缓冲寄存器）相等时，TOUTn": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678967667884
+        }
+      }
+    },
+    "ULCON1": {
+      "ULCON1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678968540534
+        }
+      }
+    },
+    "ECFLG": {
+      "ECFLG": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679013733151
+        }
+      }
+    }
+  }
+}

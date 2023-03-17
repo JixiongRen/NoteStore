@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a3ffe63a315673f3","x":-354,"y":0,"width":250,"height":60,"type":"text","text":"在距离阴极$x$距离的横截面上有$n$个电子"},
+		{"id":"ec3aa8fa20baa011","x":-366,"y":100,"width":274,"height":100,"type":"text","text":"它们经过 $\\mathrm{d}x$ 距离后产生 $\\mathrm{d}n$ 个新电子 $\\mathrm{d}n=n\\alpha\\mathrm{d}x$"},
+		{"id":"806a8c19008daf15","x":-354,"y":260,"width":250,"height":60,"type":"text","text":"在距离阴极$x$距离的横截面上有$n$个电子"},
+		{"id":"779e26f22a7368d9","x":-351,"y":380,"width":244,"height":120,"type":"text","text":"对上式积分  \n$n=n_0 \\mathrm{e}^{\\int_0^x \\alpha \\mathrm{d}x}$\n$n_0$ 为单位时间内阴极单位面积产生的电子数"}
+	],
+	"edges":[
+		{"id":"52f3e3d59e48b027","fromNode":"a3ffe63a315673f3","fromSide":"bottom","toNode":"ec3aa8fa20baa011","toSide":"top"},
+		{"id":"056576cdc28a8786","fromNode":"ec3aa8fa20baa011","fromSide":"bottom","toNode":"806a8c19008daf15","toSide":"top"},
+		{"id":"feda72c78d6b50e7","fromNode":"806a8c19008daf15","fromSide":"bottom","toNode":"779e26f22a7368d9","toSide":"top"}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "00 attachment",
+  "strictLineBreaks": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "alwaysUpdateLinks": true
+}

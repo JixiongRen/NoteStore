@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"59def23462bd3c6c","x":-540,"y":-2629,"width":250,"height":60,"type":"text","text":"气体中带电粒子的产生与消失"},
+		{"id":"bdf32a0df1818eab","x":-158,"y":-2810,"width":250,"height":60,"type":"text","text":"气体分子本身电离"},
+		{"type":"text","text":"金属（阴极）的表面电离","id":"dbab5a3344b33aa1","x":-158,"y":-2439,"width":250,"height":60},
+		{"id":"0bd6f8e858117061","x":244,"y":-2900,"width":250,"height":60,"type":"text","text":"碰撞电离"},
+		{"id":"83b594a631a59fc2","x":244,"y":-2810,"width":250,"height":60,"type":"text","text":"光电离"},
+		{"type":"text","text":"热电离","id":"4ed75e3a34e34f1d","x":244,"y":-2709,"width":250,"height":60},
+		{"type":"text","text":"正离子碰撞阴极（二次发射）","id":"5a8ce270929a4507","x":244,"y":-2559,"width":250,"height":60},
+		{"type":"text","text":"光电子发射","id":"c35cdb21fd2bc8da","x":244,"y":-2469,"width":250,"height":60},
+		{"type":"text","text":"热电子发射","id":"1d446cc6b41d9f30","x":244,"y":-2368,"width":250,"height":60},
+		{"type":"text","text":"强场放射","id":"0f714eeedbc4811c","x":244,"y":-2259,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a783b422a7ebaa7c","fromNode":"59def23462bd3c6c","fromSide":"right","toNode":"bdf32a0df1818eab","toSide":"left"},
+		{"id":"7c03ac28266190af","fromNode":"bdf32a0df1818eab","fromSide":"right","toNode":"0bd6f8e858117061","toSide":"left"},
+		{"id":"78ce2dd3128f37b6","fromNode":"bdf32a0df1818eab","fromSide":"right","toNode":"83b594a631a59fc2","toSide":"left"},
+		{"id":"67395b902657d847","fromNode":"bdf32a0df1818eab","fromSide":"right","toNode":"4ed75e3a34e34f1d","toSide":"left"},
+		{"id":"21660eb14fb40e0e","fromNode":"dbab5a3344b33aa1","fromSide":"right","toNode":"5a8ce270929a4507","toSide":"left"},
+		{"id":"6a9680f2e48e8c0d","fromNode":"dbab5a3344b33aa1","fromSide":"right","toNode":"c35cdb21fd2bc8da","toSide":"left"},
+		{"id":"4550b0d991953915","fromNode":"dbab5a3344b33aa1","fromSide":"right","toNode":"1d446cc6b41d9f30","toSide":"left"},
+		{"id":"a835f698e188da17","fromNode":"59def23462bd3c6c","fromSide":"right","toNode":"dbab5a3344b33aa1","toSide":"left"},
+		{"id":"08304dd7123e1411","fromNode":"dbab5a3344b33aa1","fromSide":"right","toNode":"0f714eeedbc4811c","toSide":"left"}
+	]
+}
